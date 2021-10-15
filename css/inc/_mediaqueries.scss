@@ -1,0 +1,278 @@
+/* -----------------------------------------
+	11. Global Mediaqueries
+----------------------------------------- */
+
+@media ( max-height: 600px ) {
+	.home-slider {
+		height: 135vh;
+	}
+}
+
+@media ( max-width: $screen-md-max ) {
+	.col-xs-1, .col-sm-1, .col-md-1, .col-lg-1, .col-xs-2, .col-sm-2, .col-md-2, .col-lg-2, .col-xs-3, .col-sm-3, .col-md-3, .col-lg-3, .col-xs-4, .col-sm-4, .col-md-4, .col-lg-4, .col-xs-5, .col-sm-5, .col-md-5, .col-lg-5, .col-xs-6, .col-sm-6, .col-md-6, .col-lg-6, .col-xs-7, .col-sm-7, .col-md-7, .col-lg-7, .col-xs-8, .col-sm-8, .col-md-8, .col-lg-8, .col-xs-9, .col-sm-9, .col-md-9, .col-lg-9, .col-xs-10, .col-sm-10, .col-md-10, .col-lg-10, .col-xs-11, .col-sm-11, .col-md-11, .col-lg-11, .col-xs-12, .col-sm-12, .col-md-12, .col-lg-12 {
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+
+	.row {
+		margin-left: -10px;
+		margin-right: -10px;
+	}
+
+	.slide-title {
+		font-size: 52px;
+	}
+
+	.slide-location {
+		font-size: 18px;
+	}
+
+	.entry-content {
+		.list-item {
+			padding: 26px 5px 24px;
+		}
+
+		.list-item-intro {
+			width: 16%;
+		}
+
+		.list-item-no,
+		.list-item-title {
+			font-size: 25px;
+		}
+
+		.list-item-group {
+			top: -2px;
+		}
+
+		.list-item-extra {
+			right: 5px;
+		}
+
+		.list-item-no {
+			margin-right: 5px;
+		}
+	}
+
+	.widget_ci-hero.widget-padded .widget-wrap {
+		padding: 95px 0;
+	}
+}
+
+@media ( max-width: $screen-sm-max ) {
+	#page {
+		padding-top: 48px; /* For mobile bar */
+	}
+
+	.navigation {
+		display: none;
+	}
+
+	.header {
+		height: 80px;
+		padding: 20px 0;
+	}
+
+	.home-sections .widget:first-child .widget-wrap {
+		padding-top: 80px;
+	}
+
+	section.widget.widget_ci-hero {
+		margin-bottom: 75px;
+	}
+
+	section.widget {
+		margin-bottom: 40px;
+	}
+
+	.widget_ci-brands.widget-padded .widget-wrap {
+		padding: 60px 0;
+	}
+
+	.list-item {
+		padding: 26px 5px 24px;
+	}
+
+	.list-item-intro {
+		width: 14%;
+	}
+
+	.list-item-no,
+	.list-item-title {
+		font-size: 25px;
+	}
+
+	.list-item-group {
+		top: -2px;
+	}
+
+	.list-item-extra {
+		right: 5px;
+	}
+
+	.list-item-no {
+		margin-right: 5px;
+	}
+
+	.footer-info,
+	.nav-footer {
+		text-align: center;
+	}
+
+	.nav-footer {
+		margin-top: 5px;
+	}
+
+	.entry-title {
+		font-size: 24px;
+	}
+
+	.sidebar {
+		margin-top: 40px;
+	}
+
+	.col-md-push-8 .sidebar {
+		margin: 0 0 40px;
+	}
+}
+
+
+@media ( max-width: $screen-xs-max ) {
+	.header {
+		text-align: center;
+	}
+
+	.main {
+		padding: 65px 0;
+	}
+
+	.home-slider {
+		height: 530px;
+
+		.ci-control-nav {
+			display: none;
+		}
+	}
+
+	.slide-title {
+		font-size: 36px;
+	}
+
+	.slide-content:after {
+		display: none;
+	}
+
+	.slide-sup,
+	.slide-rotated .slide-sup{
+		max-width: 100%;
+		-webkit-transform: none;
+		-moz-transform: none;
+		-ms-transform: none;
+		transform: none;
+		position: static;
+		text-align: center;
+		margin: 0 0 10px;
+	}
+
+
+	.hero-player {
+		height:  140px;
+		margin-top: -240px;
+	}
+
+	.hero-video {
+		margin: 0;
+		top: 0;
+	}
+
+	.hero-video + .hero-player {
+		margin: -10px;
+		background-color: rgba(black, 0.4);
+	}
+
+	.ci-soundplayer-controls {
+		margin: 0 auto;
+		float: none;
+	}
+
+	.ci-soundplayer-meta {
+		text-align: center;
+	}
+
+	.track-position {
+		display: none;
+	}
+
+	.section-title {
+		font-size: 28px;
+	}
+
+	.list-item {
+		height: auto;
+		padding: 15px 5px;
+		text-align: center;
+	}
+
+	.list-item-no {
+		display: none;
+	}
+
+	.list-item-intro {
+		float: none;
+		width: auto;
+		margin: 0 0 10px;
+
+		.sm2_link {
+			position: static;
+		}
+	}
+
+	.list-item-info {
+		margin: 0 0 10px;
+	}
+
+	.list-item-title {
+		float: none;
+	}
+
+	.list-item-group {
+		float: none;
+	}
+
+	.list-item-extra {
+		position: static;
+	}
+
+	.entry-content {
+		.list-item-intro {
+			width: auto;
+		}
+	}
+
+	.page-title {
+		margin: 0 0 40px;
+		font-size: 26px;
+	}
+
+	.ci-map {
+		height: 250px;
+	}
+
+	.event-listing-wrap {
+		h3 {
+			text-align: center;
+		}
+	}
+
+	.widget_ci-hero.widget-padded .widget-wrap {
+		padding: 60px 0;
+	}
+
+	.hero-title {
+		font-size: 28px;
+	}
+
+	.hero-content:after {
+		display: none;
+	}
+}
