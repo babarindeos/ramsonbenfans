@@ -30,10 +30,10 @@
 
       <div class="col-md-7">
         <ul class="nav-footer">
-          <li><a href="index.html">Home</a></li>
+          <li><a href="index.php">Home</a></li>
           <li><a href="#">About</a></li>
-          <li><a href="tours.html">Tours</a></li>
-          <li><a href="masterclass.html">MasterClass</a></li>
+          <li><a href="tours.php">Tours</a></li>
+          <li><a href="masterclass.php">MasterClass</a></li>
           <li><a href="photogallery.php">Photos</a></li>
           <li><a href="videos.php">Videos</a></li>
           <li><a href="#">Training</a></li>
