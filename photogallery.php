@@ -26,7 +26,7 @@
     <div class="item-info">
       <p class="item-title">Lorem ipsum dolor sit</p>
     </div>
-    <img src="http://placehold.it/750x750/2C1803.png" alt=""/>
+    <img src="images/placehold.it_750x750_2C1803.png" alt=""/>
 
     <span class="btn btn-white btn-transparent btn-round"><i class="fa fa-search-plus"></i></span>
   </a>
@@ -37,7 +37,7 @@
     <div class="item-info">
       <p class="item-title">Lorem ipsum dolor sit</p>
     </div>
-    <img src="http://placehold.it/750x750/2C1803.png" alt=""/>
+    <img src="images/placehold.it_750x750_2C1803.png" alt=""/>
 
     <span class="btn btn-white btn-transparent btn-round"><i class="fa fa-search-plus"></i></span>
   </a>
@@ -48,7 +48,7 @@
     <div class="item-info">
       <p class="item-title">Lorem ipsum dolor sit</p>
     </div>
-    <img src="http://placehold.it/750x750/2C1803.png" alt=""/>
+    <img src="images/placehold.it_750x750_2C1803.png" alt=""/>
 
     <span class="btn btn-white btn-transparent btn-round"><i class="fa fa-search-plus"></i></span>
   </a>
@@ -59,7 +59,7 @@
     <div class="item-info">
       <p class="item-title">Lorem ipsum dolor sit</p>
     </div>
-    <img src="http://placehold.it/750x750/2C1803.png" alt=""/>
+    <img src="images/placehold.it_750x750_2C1803.png" alt=""/>
 
     <span class="btn btn-white btn-transparent btn-round"><i class="fa fa-search-plus"></i></span>
   </a>
@@ -70,7 +70,7 @@
     <div class="item-info">
       <p class="item-title">Lorem ipsum dolor sit</p>
     </div>
-    <img src="http://placehold.it/750x750/2C1803.png" alt=""/>
+    <img src="images/placehold.it_750x750_2C1803.png" alt=""/>
 
     <span class="btn btn-white btn-transparent btn-round"><i class="fa fa-search-plus"></i></span>
   </a>
@@ -81,7 +81,7 @@
     <div class="item-info">
       <p class="item-title">Lorem ipsum dolor sit</p>
     </div>
-    <img src="http://placehold.it/750x750/2C1803.png" alt=""/>
+    <img src="images/placehold.it_750x750_2C1803.png" alt=""/>
 
     <span class="btn btn-white btn-transparent btn-round"><i class="fa fa-search-plus"></i></span>
   </a>

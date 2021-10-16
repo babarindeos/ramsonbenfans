@@ -25,7 +25,7 @@
     <div class="item-info">
       <p class="item-title">Lorem ipsum dolor sit</p>
     </div>
-    <img src="" alt=""/>
+    <img src="images/placehold.it_750x750_2C1803.png" alt=""/>
 
     <span class="btn btn-round btn-white btn-transparent"><i class="fa fa-play"></i></span>
   </a>

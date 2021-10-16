@@ -82,9 +82,9 @@
 
 		<li><a href="#">Training</a></li>
 
-		<li><a href="video_lectures">Video Lectures</a></li>
+		<li><a href="video_lectures.php">Video Lectures</a></li>
 
-    <li><a href="booking.html">Bookings</a></li>
+    <li><a href="booking.php">Bookings</a></li>
 
     <li><a href="#">Blog</a></li>
 
