@@ -298,7 +298,7 @@
     <div class="item-info">
       <p class="item-title">Lorem ipsum dolor sit</p>
     </div>
-    <img src="http://placehold.it/750x750/2C1803.png" alt=""/>
+    <img src="images/placehold.it_750x750_2c1803.png" alt=""/>
 
     <span class="btn btn-round btn-white btn-transparent"><i class="fa fa-play"></i></span>
   </a>
@@ -423,7 +423,7 @@
     <div class="item-info">
       <p class="item-title">Lorem ipsum dolor sit</p>
     </div>
-    <img src="http://placehold.it/750x750/2C1803.png" alt=""/>
+    <img src="images/placehold.it_750x750_2c1803.png" alt=""/>
 
     <span class="btn btn-white btn-transparent">Learn More</span>
   </a>
@@ -434,7 +434,7 @@
     <div class="item-info">
       <p class="item-title">Lorem ipsum dolor sit</p>
     </div>
-    <img src="http://placehold.it/750x750/2C1803.png" alt=""/>
+    <img src="images/placehold.it_750x750_2c1803.png" alt=""/>
 
     <span class="btn btn-white btn-transparent">Learn More</span>
   </a>
@@ -445,7 +445,7 @@
     <div class="item-info">
       <p class="item-title">Lorem ipsum dolor sit</p>
     </div>
-    <img src="http://placehold.it/750x750/2C1803.png" alt=""/>
+    <img src="images/placehold.it_750x750_2c1803.png" alt=""/>
 
     <span class="btn btn-white btn-transparent">Learn More</span>
   </a>
@@ -456,7 +456,7 @@
     <div class="item-info">
       <p class="item-title">Lorem ipsum dolor sit</p>
     </div>
-    <img src="http://placehold.it/750x750/2C1803.png" alt=""/>
+    <img src="images/placehold.it_750x750_2c1803.png" alt=""/>
 
     <span class="btn btn-white btn-transparent">Learn More</span>
   </a>
@@ -467,7 +467,7 @@
     <div class="item-info">
       <p class="item-title">Lorem ipsum dolor sit</p>
     </div>
-    <img src="http://placehold.it/750x750/2C1803.png" alt=""/>
+    <img src="images/placehold.it_750x750_2c1803.png" alt=""/>
 
     <span class="btn btn-white btn-transparent">Learn More</span>
   </a>
@@ -478,7 +478,7 @@
     <div class="item-info">
       <p class="item-title">Lorem ipsum dolor sit</p>
     </div>
-    <img src="http://placehold.it/750x750/2C1803.png" alt=""/>
+    <img src="images/placehold.it_750x750_2c1803.png" alt=""/>
 
     <span class="btn btn-white btn-transparent">Learn More</span>
   </a>
