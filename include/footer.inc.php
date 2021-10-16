@@ -34,8 +34,8 @@
           <li><a href="#">About</a></li>
           <li><a href="tours.html">Tours</a></li>
           <li><a href="masterclass.html">MasterClass</a></li>
-          <li><a href="photogallery.html">Photos</a></li>
-          <li><a href="videos.html">Videos</a></li>
+          <li><a href="photogallery.php">Photos</a></li>
+          <li><a href="videos.php">Videos</a></li>
           <li><a href="#">Training</a></li>
           <li><a href="#">Video Lectures</a></li>
           <li><a href="bookings.php">Bookings</a></li>
