@@ -6,7 +6,7 @@
     <div class="container-fluid">
       <div class="row">
         <div class="col-md-3">
-          <h1 class="site-logo"><a href="index.html">Ramson Ben <!--<img src="images/logo.png" alt="Oscillator Logo"/> //--></a></h1>
+          <h1 class="site-logo"><a href="index.html" >Ramson Ben <!--<img src="images/logo.png" alt="Oscillator Logo"/> //--></a></h1>
           <!--<p class="site-tagline">Entertainment Theme for WordPress</p>-->
         </div>
 

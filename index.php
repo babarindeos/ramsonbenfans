@@ -268,43 +268,45 @@
           </div>
         </div>
 
-        <div class="row row-joined item-list">
-          <div class="col-md-4 col-sm-6 col-xs-12">
-          <div class="item">
-  <a href="video_highlife_jazz_2020.php">
-    <div class="item-info">
-      <p class="item-title">Highlife Jazz</p>
-    </div>
-    <img src="videos/images/highlife-jazz.png" alt=""/>
+			<div class="row row-joined item-list">
+							<div class="col-md-4 col-sm-6 col-xs-12">
+											<div class="item">
+													  <a href="video_highlife_jazz_2020.php">
+													    <div class="item-info">
+													      <p class="item-title">Highlife Jazz</p>
+													    </div>
+													    <img src="videos/images/highlife-jazz.png" alt=""/>
 
-    <span class="btn btn-round btn-white btn-transparent"><i class="fa fa-play"></i></span>
-  </a>
-</div>          </div>
-          <div class="col-md-4 col-sm-6 col-xs-12">
-          <div class="item">
-  <a href="video_early_summer_blues_2020.php">
-    <div class="item-info">
-      <p class="item-title">Early Summer Blues</p>
-    </div>
-    <img src="videos/images/early-summer-blues.png" alt=""/>
+													    <span class="btn btn-round btn-white btn-transparent"><i class="fa fa-play"></i></span>
+													  </a>
+											</div>
+							</div>
+							<div class="col-md-4 col-sm-6 col-xs-12">
+										<div class="item">
+												<a href="single-video.html">
+													<div class="item-info">
+															<p class="item-title">Lorem ipsum dolor sit</p>
+													</div>
+													<img src="images/placehold.it_750x750_2C1803.png" alt=""/>
 
-    <!--<span class="btn btn-white btn-transparent btn-round"><i class="fa fa-search-plus"></i></span> //-->
-		<span class="btn btn-white btn-transparent btn-round"><i class="fa fa-play"></i></span>
-  </a>
-</div>          </div>
-          <div class="col-md-4 col-sm-6 col-xs-12">
-          <div class="item">
-  <a href="single-video.html">
-    <div class="item-info">
-      <p class="item-title">Lorem ipsum dolor sit</p>
-    </div>
-    <img src="images/placehold.it_750x750_2C1803.png" alt=""/>
+													<span class="btn btn-round btn-white btn-transparent"><i class="fa fa-play"></i></span>
+												</a>
+										</div>
+							</div>
+							<div class="col-md-4 col-sm-6 col-xs-12">
+										 <div class="item">
+											  <a href="single-video.html">
+											    <div class="item-info">
+											      <p class="item-title">Lorem ipsum dolor sit</p>
+											    </div>
+											    <img src="images/placehold.it_750x750_2C1803.png" alt=""/>
 
-    <span class="btn btn-round btn-white btn-transparent"><i class="fa fa-play"></i></span>
-  </a>
-</div>          </div>
-        </div>
-      </div>
+											    <span class="btn btn-round btn-white btn-transparent"><i class="fa fa-play"></i></span>
+											  </a>
+										</div>          
+							 </div>
+			      </div>
+  		 </div>
     </div>
   </section>
 
